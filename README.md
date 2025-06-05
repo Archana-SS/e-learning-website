@@ -24,6 +24,7 @@
     📦 Redux
 
 🖥 Backend:
+
     🟩 Node.js
     🌐 Express.js
     🍃 MongoDB
